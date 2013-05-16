@@ -17,7 +17,7 @@ namespace CarcassoneScoreBoard.Controllers
         }
         public ActionResult AddPlayer()
         {
-
+			return View ();
         }
 
     }
